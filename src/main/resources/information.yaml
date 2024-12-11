@@ -1,0 +1,19 @@
+Info:
+  title: "Opc UA Service"
+  description: "Opc UA 服务"
+  version: "0.0.1-snapshot"
+  contact:
+    name: "liu yanyu"
+    url: "https://gitee.com/smartstone97"
+    email: "liuyy@djmillison.com"
+  licence:
+    name: "Apache 2.0"
+    identifier: "Apache-2.0"
+    url: "https://www.apache.org/licenses/LICENSE-2.0.html"
+Groups:
+  - name: "Opc UA Client"
+    Info:
+      title: "Opc UA Client Test"
+      description: "Opc UA Client 测试"
+      version: "0.0.1-snapshot"
+    path-to-match: "/opc-ua-client/**;/udt-access/**;/test/**;/containerd-udt/**;/history/**;/form/**"
