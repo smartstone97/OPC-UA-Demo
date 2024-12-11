@@ -1,4 +1,4 @@
-package com.mlx.opcuaservice.service;
+package com.mlx.opcuademo.service;
 
 import org.eclipse.milo.opcua.sdk.client.OpcUaClient;
 import org.eclipse.milo.opcua.sdk.client.api.identity.IdentityProvider;

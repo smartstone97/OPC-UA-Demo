@@ -1,4 +1,4 @@
-package com.mlx.opcuaservice.configuration;
+package com.mlx.opcuademo.configuration;
 
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
@@ -19,7 +19,7 @@ import java.util.regex.Pattern;
 @Getter
 @Slf4j
 @Component
-class KeyStoreLoader {
+public class KeyStoreLoader {
     private static final Pattern IP_ADDR_PATTERN = Pattern.compile(
             "^(([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\.){3}([01]?\\d\\d?|2[0-4]\\d|25[0-5])$");
 

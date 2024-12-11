@@ -1,7 +1,7 @@
-package com.mlx.opcuaservice.service;
+package com.mlx.opcuademo.service;
 
-import com.mlx.opcuaservice.configuration.OpcUAConfig;
-import com.mlx.opcuaservice.entity.PostWriteValue;
+import com.mlx.opcuademo.configuration.OpcUAConfig;
+import com.mlx.opcuademo.entity.PostWriteValue;
 import lombok.extern.slf4j.Slf4j;
 import org.eclipse.milo.opcua.sdk.client.OpcUaClient;
 import org.eclipse.milo.opcua.stack.core.types.builtin.NodeId;

@@ -1,6 +1,6 @@
-package com.mlx.opcuaservice.entity;
+package com.mlx.opcuademo.entity;
 
-import com.mlx.opcuaservice.service.OpcUaClientService;
+import com.mlx.opcuademo.service.OpcUaClientService;
 import lombok.Setter;
 
 

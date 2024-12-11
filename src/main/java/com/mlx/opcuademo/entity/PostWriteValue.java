@@ -1,4 +1,4 @@
-package com.mlx.opcuaservice.entity;
+package com.mlx.opcuademo.entity;
 
 import lombok.Builder;
 import lombok.Data;

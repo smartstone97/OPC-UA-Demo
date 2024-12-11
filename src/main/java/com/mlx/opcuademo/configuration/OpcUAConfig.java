@@ -1,6 +1,6 @@
-package com.mlx.opcuaservice.configuration;
+package com.mlx.opcuademo.configuration;
 
-import com.mlx.opcuaservice.service.OpcUAService;
+import com.mlx.opcuademo.service.OpcUAService;
 import org.eclipse.milo.opcua.sdk.client.OpcUaClient;
 import org.eclipse.milo.opcua.stack.core.types.builtin.LocalizedText;
 import org.eclipse.milo.opcua.stack.core.types.builtin.unsigned.UInteger;

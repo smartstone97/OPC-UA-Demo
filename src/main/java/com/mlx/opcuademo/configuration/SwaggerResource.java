@@ -1,4 +1,4 @@
-package com.mlx.opcuaservice.configuration;
+package com.mlx.opcuademo.configuration;
 
 import com.mlx.utilities.YamlUtil;
 import org.springframework.beans.factory.annotation.Value;

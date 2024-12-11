@@ -1,6 +1,6 @@
-package com.mlx.opcuaservice.service;
+package com.mlx.opcuademo.service;
 
-import com.mlx.opcuaservice.entity.PostWriteValue;
+import com.mlx.opcuademo.entity.PostWriteValue;
 import org.springframework.web.bind.annotation.RequestBody;
 
 public interface OpcUaClientService {

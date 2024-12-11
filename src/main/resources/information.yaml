@@ -16,4 +16,4 @@ Groups:
       title: "Opc UA Client Test"
       description: "Opc UA Client 测试"
       version: "0.0.1-snapshot"
-    path-to-match: "/opc-ua-client/**;/udt-access/**;/test/**;/containerd-udt/**;/history/**;/form/**"
+    path-to-match: "/opc-ua-client/**"

@@ -1,4 +1,4 @@
-package com.mlx.opcuaservice.service;
+package com.mlx.opcuademo.service;
 
 import lombok.extern.slf4j.Slf4j;
 import org.eclipse.milo.opcua.sdk.client.OpcUaClient;
